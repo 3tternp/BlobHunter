@@ -6,3 +6,4 @@ azure-mgmt-resource==15.0.0
 azure-mgmt-storage==16.0.0
 azure-storage-blob==12.6.0
 pyinputplus==0.2.12
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
